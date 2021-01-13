@@ -11,7 +11,7 @@ elseif game.PlaceId == 3233893879 then -- Bad Business
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/badbusiness.lua"))()
 --
 elseif game.PlaceId == 2377868063 then -- Strucid
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/esp.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/strucid.lua"))()
 --
 elseif game.PlaceId == 286090429 then -- Arsenal
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/arsenal.lua"))()
