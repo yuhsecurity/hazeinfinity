@@ -15,9 +15,12 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/strucid.lua"))()
     --
     elseif game.PlaceId == 2633045061 then -- Strucid BR Queue
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/strucid.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/strucid.lua"))()
     --
     elseif game.PlaceId == 3606833500 then -- Strucid Zone Wars
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/strucid.lua"))()
+    --
+    elseif game.PlaceId == 2674164583 then -- Strucid Battle Royale
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/strucid.lua"))()
     --
     elseif game.PlaceId == 286090429 then -- Arsenal
