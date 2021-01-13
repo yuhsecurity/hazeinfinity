@@ -14,7 +14,7 @@ elseif game.PlaceId == 2377868063 then -- Strucid
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/esp.lua"))()
 --
 elseif game.PlaceId == 286090429 then -- Arsenal
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/arsenal.lua"))()
 --
 elseif game.PlaceId == 394206297 then -- Kinetic Code
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/esp.lua"))()
