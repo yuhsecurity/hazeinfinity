@@ -1,1 +1,1 @@
-"# hazehub" 
+# Haze Hub | Roblox Script Hub
