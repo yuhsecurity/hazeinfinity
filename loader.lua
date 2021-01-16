@@ -6,7 +6,7 @@
 -- Unnamed ESP will be used to maintain functionality of games when there are no other scripts avalible
 --
 if game.PlaceId == 292439477 then -- Phantom Forces
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/phantomforces.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/EHUB.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
     h.Text = "Haze Infinity | Phantom Forces Detected, Launching EHUB"
@@ -14,7 +14,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     h:Remove()
     --
     elseif game.PlaceId == 3233893879 then -- Bad Business
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/badbusiness.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/CumHaxx.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
     h.Text = "Haze Infinity | Bad Business Detected, Launching CumHaxx"
@@ -22,7 +22,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     h:Remove()
     --
     elseif game.PlaceId == 2377868063 then -- Strucid
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/strucid.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Dark%20Hub.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
     h.Text = "Haze Infinity | Strucid Detected, Launching Dark Hub"
@@ -37,7 +37,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     h:Remove()
     --
     elseif game.PlaceId == 3606833500 then -- Strucid Zone Wars
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/strucid.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Dark%20Hub.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
     h.Text = "Haze Infinity | Strucid Detected, Launching DarkHub"
@@ -45,7 +45,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     h:Remove()
     --
     elseif game.PlaceId == 2674164583 then -- Strucid Battle Royale
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/strucid.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Dark%20Hub.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
     h.Text = "Haze Infinity | Strucid Detected, Launching DarkHub"
@@ -53,7 +53,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     h:Remove()
     --
     elseif game.PlaceId == 286090429 then -- Arsenal
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/arsenal.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Silent%20Aim.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
     h.Text = "Haze Infinity | Arsenal Detected, Launching OP Silent Aim"
@@ -61,7 +61,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     h:Remove()
     --
     elseif game.PlaceId == 394206297 then -- Kinetic Code
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/esp.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Unnamed%20ESP.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
     h.Text = "Haze Infinity | Kinetic Code Detected, Launching Unnamed ESP"
@@ -69,7 +69,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     h:Remove()
     --
     elseif game.PlaceId == 301549746 then -- Counter Blox
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/scripts/counterblox.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/GUI.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
     h.Text = "Haze Infinity | Counter Blox Detected, Launching Vex Hub"
