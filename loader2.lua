@@ -9,7 +9,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/EHUB.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
-    h.Text = "Haze Infinity | Phantom Forces Detected, Launching EHUB"
+    h.Text = "Haze Infinity | Phantom Forces Detected, Loading Script..."
     wait(5)
     h:Remove()
     --
@@ -17,7 +17,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/CumHaxx.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
-    h.Text = "Haze Infinity | Bad Business Detected, Launching CumHaxx"
+    h.Text = "Haze Infinity | Bad Business Detected, Loading Script..."
     wait(5)
     h:Remove()
     --
@@ -25,7 +25,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Dark%20Hub.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
-    h.Text = "Haze Infinity | Strucid Detected, Launching Dark Hub"
+    h.Text = "Haze Infinity | Strucid Detected, Loading Script..."
     wait(5)
     h:Remove()
     --
@@ -40,16 +40,15 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Dark%20Hub.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
-    h.Text = "Haze Infinity | Strucid Detected, Launching OP Hitbox Extender"
+    h.Text = "Haze Infinity | Strucid Detected, Loading Script..."
     wait(5)
     h:Remove()
     --
     elseif game.PlaceId == 2674164583 then -- Strucid Battle Royale
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Dark%20Hub.lua"))()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Unnamed%20ESP.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
-    h.Text = "Haze Infinity | Strucid Detected, Launching OP Hitbox Extender & Unnamed ESP"
+    h.Text = "Haze Infinity | Strucid Detected, Loading Script..."
     wait(5)
     h:Remove()
     --
@@ -57,7 +56,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Silent%20Aim.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
-    h.Text = "Haze Infinity | Arsenal Detected, Launching OP Silent Aim"
+    h.Text = "Haze Infinity | Arsenal Detected, Loading Script..."
     wait(5)
     h:Remove()
     --
@@ -65,7 +64,7 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Unnamed%20ESP.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
-    h.Text = "Haze Infinity | Kinetic Code Detected, Launching Unnamed ESP"
+    h.Text = "Haze Infinity | Kinetic Code Detected, Loading Script..."
     wait(5)
     h:Remove()
     --
@@ -73,9 +72,9 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/GUI.lua"))()
     local h = Instance.new("Message")
     h.Parent = Workspace 
-    h.Text = "Haze Infinity | Counter Blox Detected, Launching Vex Hub"
+    h.Text = "Haze Infinity | Counter Blox Detected, Loading Script..."
     wait(5)
     h:Remove()
     else
-    game.Players.LocalPlayer:Kick("Game Not Supported by Haze Infinity | discord.gg/QvgkHubJT7") -- Trigger GNS Error
+    game.Players.LocalPlayer:Kick("Game Not Supported by Haze Infinity | discord.gg/WJusFzwB29") -- Trigger GNS Error
     end
