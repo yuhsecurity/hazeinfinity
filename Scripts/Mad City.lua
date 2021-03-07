@@ -56,7 +56,7 @@ for i, v in pairs(getconnections(game:GetService("ScriptContext").Error)) do
 end
 
 if not getgenv().MTAPIMutex then
-    loadstring(game:HttpGet("https://cdn.thisstuff.xyz/Api/MTAPI", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/loadstrings/main/Loadstring3201", true))()
 end
 
 getgenv().TSLoaded = true
@@ -64,7 +64,7 @@ getgenv().TSLoaded = true
 local LMBHeld = false
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
-local UI_Library = loadstring(game:HttpGet("https://cdn.thisstuff.xyz/Api/Library/Main", true))()
+local UI_Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/loadstrings/main/Loadstring2519", true))()
 local Window = UI_Library:CreateWindow("Mad City")
 local CCTab = Window:Folder("Character Cheats")
 local MaliciousTab = Window:Folder("Malicious")
