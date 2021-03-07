@@ -83,11 +83,12 @@ if game.PlaceId == 292439477 then -- Phantom Forces
         wait(5)
         h:Remove()
         --
-    elseif game.PlaceId == 901793731 -- D-DAY
+    elseif game.PlaceId == 901793731 then -- D-DAY
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/D-DAY.lua"))()
-    h.Parent = Workspaceh.Text = "Haze Infinity | D-DAY Detected, Loading Script"
+    h.Parent = Workspace
+    h.Text = "Haze Infinity | D-DAY Detected, Loading Script"
     wait(5)
-    h:Remove(
+    h:Remove()
     --
     else
     game.Players.LocalPlayer:Kick("Game Not Supported by Haze Infinity | discord.gg/WJusFzwB29") -- Trigger GNS Error
