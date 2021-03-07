@@ -75,6 +75,27 @@ if game.PlaceId == 292439477 then -- Phantom Forces
     h.Text = "Haze Infinity | Counter Blox Detected, Loading Script..."
     wait(5)
     h:Remove()
+    --
+    elseif game.PlaceId == 488667523 then -- Those Who Remain
+        loadstring(game:HttpGet(""))()
+        h.Parent = Workspace
+        h.Text = "Haze Infinity | Those Who Remain Detected, Loading Script"
+        wait(5)
+        h:Remove()
+    --
+    elseif game.PlaceId == 1224212277 -- Mad City
+        loadstring(game:HttpGet(""))()
+        h.Parent = Workspace
+        h.Text = "Haze Infinity | Mad City Detected, Loading Script"
+        wait(5)
+        h:Remove()
+        --
+    elseif game.PlaceId == 901793731 -- D-DAY
+    loadstring(game:HttpGet(""))()
+    h.Parent = Workspaceh.Text = "Haze Infinity | D-DAY Detected, Loading Script"
+    wait(5)
+    h:Remove(
+    --
     else
     game.Players.LocalPlayer:Kick("Game Not Supported by Haze Infinity | discord.gg/WJusFzwB29") -- Trigger GNS Error
     end
