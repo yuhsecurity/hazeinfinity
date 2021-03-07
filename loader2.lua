@@ -82,13 +82,6 @@ if game.PlaceId == 292439477 then -- Phantom Forces
         h.Text = "Haze Infinity | Those Who Remain Detected, Loading Script"
         wait(5)
         h:Remove()
-    --
-    elseif game.PlaceId == 1224212277 -- Mad City
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Mad%20City.lua"))()
-        h.Parent = Workspace
-        h.Text = "Haze Infinity | Mad City Detected, Loading Script"
-        wait(5)
-        h:Remove()
         --
     elseif game.PlaceId == 901793731 -- D-DAY
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/D-DAY.lua"))()
