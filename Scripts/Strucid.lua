@@ -6,7 +6,7 @@ Ihave was here <3
 Simple Strucid Hitboxe
 ]]
 
-_G.Size = 20 --Change to any size 100> Or else you will lag
+_G.Size = 10 --Change to any size 100> Or else you will lag
 while true do
             for i,v in next, game:GetService('Players'):GetPlayers() do 
                 if v ~= plr then 
