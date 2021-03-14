@@ -10,18 +10,6 @@
 print ('Join the discord - https://discord.gg/WJusFzwB29')
 if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Phantom%20Forces.lua"))()
-    game.StarterGui:SetCore("SendNotification", {
-        Title = "Haze Infinity";
-        Text = "Phantom Forces Script Loaded!";
-        Duration = 3;
-        Button1 = "Close";
-    })
-    wait(15)
-    game.StarterGui:SetCore("SendNotification", {
-        Title = "Haze Infinity - Discord";
-        Text = "Discord Invite Printied in Console | Press F9";
-        Duration = 3;
-    })
 --
 elseif game.PlaceId == 3233893879 then -- Bad Business
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Bad%20Business.lua"))()
