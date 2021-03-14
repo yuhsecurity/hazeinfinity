@@ -8,16 +8,22 @@
 
 
 print ('Join the discord - https://discord.gg/WJusFzwB29')
+--
 if game.PlaceId == 292439477 then -- Phantom Forces
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Phantom%20Forces.lua"))()
+    local h = Instance.new("Message")
+    h.Parent = Workspace 
+    h.Text = "Haze Infinity | Phantom Forces Detected, Loading Script..."
+    wait(3)
+    h:Remove()
 --
 elseif game.PlaceId == 3233893879 then -- Bad Business
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Bad%20Business.lua"))()
-    game.StarterGui:SetCore("SendNotification", {
-        Title = "Haze Infinity";
-        Text = "Bad Business Script Loaded!";
-        Duration = 3;
-    })
+    local h = Instance.new("Message")
+    h.Parent = Workspace 
+    h.Text = "Haze Infinity | Bad Business Detected, Loading Script..."
+    wait(3)
+    h:Remove()
 --
 elseif game.PlaceId == 2377868063 then -- Strucid
     local h = Instance.new("Message")
