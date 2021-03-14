@@ -5,22 +5,31 @@
 -- If Unnamed ESP isn't working enable show team
 -- Unnamed ESP will be used to maintain functionality of games when there are no other scripts avalible
 --
+
+
 print ('Join the discord - https://discord.gg/WJusFzwB29')
 if game.PlaceId == 292439477 then -- Phantom Forces
-    local h = Instance.new("Message")
-    h.Parent = Workspace 
-    h.Text = "Haze Infinity | Phantom Forces Detected, Loading Script..."
-    wait(3)
-    h:Remove()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Phantom%20Forces.lua"))()
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "Haze Infinity";
+        Text = "Phantom Forces Script Loaded!";
+        Duration = 3;
+        Button1 = "Close";
+    })
+    wait(15)
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "Haze Infinity - Discord";
+        Text = "Discord Invite Printied in Console | Press F9";
+        Duration = 3;
+    })
 --
 elseif game.PlaceId == 3233893879 then -- Bad Business
-    local h = Instance.new("Message")
-    h.Parent = Workspace 
-    h.Text = "Haze Infinity | Bad Business Detected, Loading Script..."
-    wait(3)
-    h:Remove()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Bad%20Business.lua"))()
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "Haze Infinity";
+        Text = "Bad Business Script Loaded!";
+        Duration = 3;
+    })
 --
 elseif game.PlaceId == 2377868063 then -- Strucid
     local h = Instance.new("Message")
