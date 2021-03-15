@@ -15,6 +15,6 @@
 
 #### Phantom Forces: Felix#2031, Mlemix#0069, Synergy#4200, Quility#4520, ShowerHeadFD#1806 & phoenix.#5088
 
-#### Strucid: oof4dayz#5780 & Ihaveash0rtnamefordiscord#9529
+#### Strucid: ic3w0lf
 
 #### Those Who Remain: username#0092
