@@ -25,38 +25,6 @@ elseif game.PlaceId == 3233893879 then -- Bad Business
     wait(3)
     h:Remove()
 --
-elseif game.PlaceId == 2377868063 then -- Strucid
-    local h = Instance.new("Message")
-    h.Parent = Workspace 
-    h.Text = "Haze Infinity | Strucid Detected, Loading Script..."
-    wait(3)
-    h:Remove()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Strucid.lua"))()
---
-elseif game.PlaceId == 2633045061 then -- Strucid BR Queue
-    print ("Haze Infinity | Error: Don't execute until in-game")
-    local h = Instance.new("Message")
-    h.Parent = Workspace 
-    h.Text = "Haze Infinity | Error: Don't execute until in-game"
-    wait(5)
-    h:Remove()
---
-elseif game.PlaceId == 3606833500 then -- Strucid Zone Wars
-    local h = Instance.new("Message")
-    h.Parent = Workspace 
-    h.Text = "Haze Infinity | Strucid Detected, Loading Script..."
-    wait(3)
-    h:Remove()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Strucid.lua"))()
---
-elseif game.PlaceId == 2674164583 then -- Strucid Battle Royale
-    local h = Instance.new("Message")
-    h.Parent = Workspace 
-    h.Text = "Haze Infinity | Strucid Detected, Loading Script..."
-    wait(3)
-    h:Remove()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/yuhsecurity/hazeinfinity/main/Scripts/Strucid.lua"))()
---
 elseif game.PlaceId == 286090429 then -- Arsenal
     local h = Instance.new("Message")
     h.Parent = Workspace 
