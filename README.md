@@ -9,12 +9,8 @@
 
 #### Counter Blox: Pawel12d & Emptiness
 
-#### D-Day: Ripple#8618
-
 #### Kinetic Code: ic3wolf
 
 #### Phantom Forces: Felix#2031, Mlemix#0069, Synergy#4200, Quility#4520, ShowerHeadFD#1806 & phoenix.#5088
-
-#### Strucid: ic3w0lf
 
 #### Those Who Remain: username#0092
